@@ -1,4 +1,4 @@
-//n a sequence of numbers from 1 - 100, replace the numbers divisble by 3 with "FIZZ", replace thenumbers 
+//In a sequence of numbers from 1 - 100, replace the numbers divisble by 3 with "FIZZ", replace thenumbers 
 //divisble by 5 with "BUZZ" and replace the numbers divisble by 15 with "FIZZBUZZ" and print the result.
 
 #include <stdio.h>
